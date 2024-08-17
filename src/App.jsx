@@ -4,6 +4,7 @@ import "./App.css";
 
 import Home from '../src/Components/Home'
 import About from "./Components/About";
+import Footer from "./Components/Footer";
 function App() {
   const [count, setCount] = useState(0);
 
@@ -11,6 +12,7 @@ function App() {
     <>
      <Home />
      <About />
+     <Footer/>
     </>
   );
 }

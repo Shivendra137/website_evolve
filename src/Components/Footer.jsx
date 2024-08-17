@@ -27,8 +27,8 @@ function Footer(){
             <i className="fa-regular fa-envelope" /> teamevolve@gmail.com
           </li>
           <li>
-            <i className="fa-brands fa-linkedin" />
-            <i className="fa-brands fa-instagram" />
+            <a href='#'><i className="fa-brands fa-linkedin" /></a>
+            <a href='#'><i className="fa-brands fa-instagram" /></a>
           </li>
           <li>
             <button className="dev-button">Meet the developers</button>
